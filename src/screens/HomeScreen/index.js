@@ -2,7 +2,7 @@ import Link from 'next/link';
 import Head from 'next/head';
 import { theme } from '../../theme/theme';
 import { Image, Box, Text, Icon, Input, Button } from '../../theme/components';
-import Footer from '../../components/patterns/footer';
+import Footer from '../../components/patterns/Footer';
 
 const LOGO_ALURA_URL = '/images/alura-logo.svg';
 const SIDE_IMAGE_URL = '/images/alura-cases.png'
